@@ -76,8 +76,9 @@ Scatter plots (optional): To check for correlations between val_exp and val_imp.
 * Card visuals: To quickly display total VALUE EXPORT, VALUE IMPORT, and NET TRADE.
 
 ## 5 Results
-<img width="894" height="505" alt="image" src="https://github.com/user-attachments/assets/986b8189-2ac2-4112-82f2-be8109f60d75" />
-<img width="897" height="505" alt="image" src="https://github.com/user-attachments/assets/c1df6272-822a-4869-a7b8-5481141fe35e" />
+<img width="777" height="438" alt="image" src="https://github.com/user-attachments/assets/4da686b5-a17f-47cd-b75f-f632089bde73" />
+<img width="777" height="442" alt="image" src="https://github.com/user-attachments/assets/785f7798-60a6-4a1a-a6a0-240f54d6127e" />
+
 
 ### 📊 Key Insights
 Overall India Trade (2010-2018)
@@ -89,36 +90,60 @@ Overall India Trade (2010-2018)
 
 - Key Import Partners: China is the leading import source, significantly outweighing other partners like the U.S.A. and Saudi Arabia. This highlights a heavy reliance on imports from China.
 
-- Dominant Export Commodities: "Mineral Products," "Textiles," and "Machinery / Electrical" are significant contributors to India's export value.
+- Dominant Export Commodities: "Mineral Products," "Textiles," and "Stone/ Glass" are significant contributors to India's export value.
 
 - Dominant Import Commodities: "Textiles" and "Miscellaneous" are the largest import commodity groups, suggesting a substantial import of these categories. The high import value of "Chemicals & Allied Industries" and "Metals" is also notable.
 
 - Trade Deficit/Surplus Concentration: The "Top 10 Countries with Highest Trade Deficit" chart shows significant deficits with partners like China, U.A.E., and Saudi Arabia, with varying trends over the years. Conversely, the "Top 10 Countries with Higher Surplus Trade" highlights countries where India consistently exports more than it imports.
 
 * India-Vietnam Bilateral Trade (2010-2018)
-- Significant Bilateral Trade: India's trade with Vietnam is considerable, with 48.41K in Exports to Vietnam and 28.79K in Imports from Vietnam, resulting in a Net Trade of 19.62K (a surplus for India).
+- Growing Trade Volume & Favorable Balance: India's trade with Vietnam has shown significant growth. With $48.41K in Exports to Vietnam and $28.79K in Imports from Vietnam, India maintains a healthy Net Trade surplus of $19.62K with Vietnam. This indicates a mutually expanding trade relationship where India's exports to Vietnam are consistently higher than its imports from Vietnam.
 
-- Positive Trade Balance for India: The "Net Exports and Net Imports" pie chart and the "Top trade deficit INDIA with VIETNAM" bar chart confirm that India has maintained a positive net trade balance (surplus) with Vietnam during this period.
+- The "Net Exports and Net Imports" pie chart visually confirms this, with exports (62.67%) significantly outweighing imports (37.33%) in value.
 
-- Dynamic Bilateral Trends: The "INDIA TRADE WITH VIETNAM 2010-2018" line chart shows clear growth in both exports and imports between India and Vietnam. There's a noticeable increase in both values, particularly from 2014 onwards, with exports generally staying above imports, indicating an expanding and favorable trade relationship for India.
+- Strong Growth Trajectory: The "INDIA TRADE WITH VIETNAM 2010-2018" line chart clearly illustrates a robust upward trend in both India's exports to and imports from Vietnam over the period. Both VALUE EXP and VALUE IMP lines show consistent, sometimes rapid, growth, indicating deepening trade ties. There's a notable surge in values from around 2014-2015 onwards.
 
-- Key Bilateral Export Commodities (from India to Vietnam): "Metals," "Foodstuffs," and "Mineral Products" are prominent in India's exports to Vietnam.
+- Specific Trade Balance Dynamics: The "Top trade deficit INDIA with VIETNAM" bar chart, despite its label, actually shows India's positive net trade balance with Vietnam increasing over the years, particularly after 2014-2015. This reinforces India's surplus position in this bilateral relationship.
 
-- Key Bilateral Import Commodities (from Vietnam to India): "Miscellaneous," "Foodstuffs," and "Textiles" are the leading import commodity groups from Vietnam.
+- Key Bilateral Export Commodities (from India to Vietnam): "Animal & Animal Products" leads significantly at $383.41K, followed by "Vegetable Products" ($76.21K) and "Textiles" ($53.85K). "Metals" and "Chemicals & Allied Industries" also contribute substantially. This suggests India primarily exports raw materials, agricultural products, and some manufactured goods to Vietnam.
+
+- Key Bilateral Import Commodities (from Vietnam to India): "Miscellaneous" dominates imports from Vietnam at $39.38K, followed by "Foodstuffs" ($37.94K), "Textiles" ($32.86K), and "Wood & Wood Products" ($28.52K). "Metals," "Chemicals & Allied Industries," and "Mineral Products" are also notable. This indicates India imports a diverse range of finished or semi-finished goods, agricultural products, and some raw materials from Vietnam.
 
 ### Recommendations 🎯
-- Diversify Import Sources (Away from China): Given China's overwhelming dominance as an import source, explore opportunities to diversify supply chains to other countries to reduce reliance and mitigate potential risks. This could involve increasing imports from current top partners or identifying new ones.
+- Boost Exports: Focus on enhancing the competitiveness and volume of exports in dominant sectors like "Mineral Products," "Chemicals & Allied Industries," and "Machinery & Electrical." Explore new markets for these products.
 
-- Strategic Focus on Key Export Commodities: Continue to promote and invest in the "Mineral Products," "Textiles," and "Machinery / Electrical" sectors for global exports, as they are strong performers. Analyze the specific sub-categories within these groups for further growth potential.
+- Diversify Import Sources: Reduce over-reliance on single import sources, particularly China. Actively seek alternative suppliers for key import commodities to mitigate supply chain risks and potentially improve terms of trade.
 
-- Address Chronic Trade Deficits: Conduct deeper analysis into the drivers of persistent trade deficits with countries like China and Saudi Arabia. This could involve exploring import substitution, boosting exports to these specific countries, or negotiating better trade terms.
+#### Strategic Engagement with Key Partners:
 
-- Strengthen India-Vietnam Trade Corridors:
+- Leverage Export Strength: Strengthen trade relationships with top export partners like the U.S.A. to further increase market access and volume.
 
-- Leverage Existing Surplus: Capitalize on India's consistent trade surplus with Vietnam. Identify specific products or services where India has a competitive advantage and Vietnam has demand.
+- Target Deficit Partners: Implement specific strategies to reduce deficits with countries like China and Saudi Arabia. This could involve promoting Indian exports to these nations or exploring opportunities for import substitution.
 
-- Promote Key Bilateral Exports: Focus efforts on increasing exports of "Metals," "Foodstuffs," and "Mineral Products" to Vietnam, given their current prominence.
+#### Commodity-Specific Strategies:
 
-- Explore Demand for India's Imports: Analyze why "Miscellaneous," "Foodstuffs," and "Textiles" are major imports from Vietnam. Are there opportunities for Indian businesses to produce these domestically or source them from other favorable markets?
+- Export Promotion: Analyze the growth potential of current top export commodity groups. Identify emerging sectors where India can build export capacity.
 
-- Deepen Bilateral Engagement: The positive and growing bilateral trade trends suggest that strengthening trade agreements, logistical infrastructure, and business-to-business connections with Vietnam could yield further mutual benefits.
+- Import Optimization: For major import commodities, evaluate if domestic production can be ramped up, or if more cost-effective import sources exist.
+
+- Long-term Trade Policy Review: The consistent deficit trend suggests a need for a deeper review of India's long-term trade policies, including tariffs, subsidies, and export promotion schemes, to foster sustainable trade growth and reduce the deficit.
+
+#### Sustain and Expand Export Growth to Vietnam:
+
+- Capitalize on the strong performance of "Animal & Animal Products" and "Vegetable Products" in exports to Vietnam. Explore opportunities to expand these sectors.
+
+- Investigate the potential for growth in other emerging export commodities that currently have smaller shares but high demand in Vietnam (e.g., machinery, electronics, pharmaceuticals).
+
+#### Optimize Import Basket from Vietnam:
+
+- Analyze the "Miscellaneous" category of imports from Vietnam to understand the specific products driving this high value. This could reveal opportunities for import substitution or strategic sourcing.
+
+- Given the significant import of "Foodstuffs" and "Textiles" from Vietnam, explore opportunities for collaboration, joint ventures, or technology transfer to enhance domestic production or diversify import sources.
+
+- Leverage Bilateral Agreements: Proactively engage in and leverage existing (or future) free trade agreements or bilateral investment treaties between India and Vietnam to further reduce trade barriers and facilitate smoother trade flows.
+
+- Promote Value-Added Exports: While raw materials and agricultural products are strong, encourage and support Indian industries to export more value-added and finished goods to Vietnam, moving up the value chain.
+
+- Strengthen Logistics and Connectivity: As trade volumes grow, assess and recommend improvements in shipping routes, port infrastructure, and customs procedures between India and Vietnam to enhance efficiency and reduce costs.
+
+- Continuous Monitoring of Trade Balance: While currently in surplus, continuously monitor the "Net Trade" trend with Vietnam to ensure the balance remains favorable or aligns with strategic objectives. Investigate any significant shifts or sustained periods of decline in the surplus.
